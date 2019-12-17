@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="controls panel"
+  >
+    <button
+      class="toggle-btn"
+      data-testid="lock"
+      disabled=""
+    >
+      Lock Gate
+    </button>
+    <button
+      class="toggle-btn"
+      data-testid="door"
+    >
+      Close Gate
+    </button>
+  </div>
+</DocumentFragment>
+`;
